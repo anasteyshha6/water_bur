@@ -1,0 +1,21 @@
+<svg width="95" height="71" viewBox="0 0 95 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="6.5" y="33.7461" width="5.81505" height="20.2397" stroke="#01588B" stroke-width="3"/>
+<rect x="37.9588" y="6.5" width="5.81505" height="20.2397" transform="rotate(90 37.9588 6.5)" stroke="#01588B" stroke-width="3"/>
+<line x1="22.5274" y1="13.8149" x2="22.5274" y2="58.6916" stroke="#01588B" stroke-width="3"/>
+<line x1="34.5479" y1="13.8149" x2="34.5479" y2="43.4656" stroke="#01588B" stroke-width="3"/>
+<line x1="41.7602" y1="29.8418" x2="41.7602" y2="57.0883" stroke="#01588B" stroke-width="3"/>
+<line x1="52.9794" y1="21.8286" x2="52.9794" y2="65.1025" stroke="#01588B" stroke-width="3"/>
+<line x1="51.4794" y1="24.3359" x2="77.1232" y2="24.3359" stroke="#01588B" stroke-width="3"/>
+<line x1="51.4794" y1="30.7461" x2="77.1232" y2="30.7461" stroke="#01588B" stroke-width="3"/>
+<line x1="51.4794" y1="37.1577" x2="77.1232" y2="37.1577" stroke="#01588B" stroke-width="3"/>
+<line x1="51.4794" y1="43.5684" x2="77.1232" y2="43.5684" stroke="#01588B" stroke-width="3"/>
+<line x1="51.4794" y1="49.98" x2="77.1232" y2="49.98" stroke="#01588B" stroke-width="3"/>
+<line x1="51.4794" y1="56.3896" x2="77.1232" y2="56.3896" stroke="#01588B" stroke-width="3"/>
+<line x1="51.4794" y1="62.8008" x2="77.1232" y2="62.8008" stroke="#01588B" stroke-width="3"/>
+<line x1="81.8286" y1="21.8286" x2="81.8286" y2="65.1025" stroke="#01588B" stroke-width="3"/>
+<line x1="13.815" y1="37.1577" x2="21.0273" y2="37.1577" stroke="#01588B" stroke-width="3"/>
+<line x1="13.815" y1="49.1777" x2="21.0273" y2="49.1777" stroke="#01588B" stroke-width="3"/>
+<line x1="34.6506" y1="28.3418" x2="41.863" y2="28.3418" stroke="#01588B" stroke-width="3"/>
+<line x1="21.0274" y1="57.1919" x2="41.863" y2="57.1919" stroke="#01588B" stroke-width="3"/>
+<path d="M41.0616 29.4414C43.065 26.1024 48.1136 19.4243 52.2807 19.4243H81.13C83.6677 19.9586 88.9834 22.3092 89.9451 27.438V58.2907C89.6779 60.6948 87.541 65.6633 81.13 66.3044H52.2807C50.0102 65.7701 44.5876 63.4194 41.0616 58.2907" stroke="#01588B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
