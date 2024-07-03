@@ -88,7 +88,7 @@ export default {
       }
 
       try {
-        const response = await axios.post("http://localhost:3000/email", {
+        const response = await axios.post(`${import.meta.env.VITE_API_URL}/email`, {
           name: this.user_name,
           phoneNum: this.user_phone,
           email: this.user_email,
